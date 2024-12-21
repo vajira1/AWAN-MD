@@ -79,7 +79,7 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
     
-### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
+   ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
 
 </div>
 
@@ -89,7 +89,7 @@
 
 
 <p align="center">
-    <a href="https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U">
+    <a href="https://whatsapp.com/channel/0029VaxurQT1t90ad7JBJN00">
         <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
