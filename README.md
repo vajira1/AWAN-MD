@@ -65,35 +65,19 @@
 ### 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙊𝙋𝙏𝙄𝙊𝙉𝙎
 </div>
 <div align="center">
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/itzawanzada/MUDASSAR-MD">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/itzawanzada/MUDASSAR-MD">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/Panhwar110/Panhwar-MD">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/itzawanzada/MUDASSAR-MD">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
 </div>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <br>    ❖ CREATE ACCOUNT HOST.TALKDROVE WEB ❖
-
-<p align="center">
-<a href="https://host.talkdrove.com/auth/signup?ref=2E22E5E8"><img height= "35" title="Author" src="https://img.shields.io/badge/Signup H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
-<p/>
-
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br>    ❖  FREE DEPLOY HOST.TALKDROVE WEB ❖
-
-<p align="center">
-<a href="https://host.talkdrove.com/share-bot/62"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
-<p/> 
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
 
