@@ -1,6 +1,6 @@
 {
-  "name": "ᴘᴀɴʜᴡᴀʀ-ᴍᴅ",
-  "description": "PANHWAR MD IS THE MAKE BY USING BAILEY'S",
+  "name": "ᴀᴡᴀɴ-ᴍᴅ",
+  "description": "AWAN MD IS THE MAKE BY USING BAILEY'S",
   "logo": "https://i.imghippo.com/files/BXP4434qMk.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "ʜɪ ɪ'ᴍ ᴏɴʟɪɴᴇ ᴍʏ ɴᴀᴍᴇ ɪs ᴀɴsᴀʀ"
+      "value": "ʜɪ ɪ'ᴍ ᴏɴʟɪɴᴇ ᴍʏ ɴᴀᴍᴇ ɪs ᴀᴡᴀɴ ʙʜᴀɪ"
     },
     
     "PREFIX": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "ᴘᴀɴʜᴡᴀʀ-ᴍᴅ"
+      "value": "ᴀᴡᴀɴ-ᴍᴅ"
     }
 
 },
