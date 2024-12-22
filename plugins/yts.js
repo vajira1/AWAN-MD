@@ -25,7 +25,7 @@ let yts = require("yt-search")
 var arama = await yts(q);
 } catch(e) {
     l(e)
-return await conn.sendMessage(from , { text: '*Error !!*' }, { quoted: mek } )
+return await conn.sendMessage(from , { text: '*Eʀʀᴏʀ Fɪx Cᴏᴍɪɴɢ Sᴏᴏɴ !!*' }, { quoted: mek } )
 }
 var mesaj = '';
 arama.all.map((video) => {
@@ -34,6 +34,6 @@ mesaj += ' *🖲️' + video.title + '*\n🔗 ' + video.url + '\n\n'
 await conn.sendMessage(from , { text:  mesaj }, { quoted: mek } )
 } catch (e) {
     l(e)
-  reply('*Error !!*')
+  reply('*Eʀʀᴏʀ Fɪx Cᴏᴍɪɴɢ Sᴏᴏɴ !!*')
 }
 });
