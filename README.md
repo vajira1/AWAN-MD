@@ -1,10 +1,10 @@
-![𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+𝐀𝐒𝐒𝐋𝐀𝐌-𝐔-𝐀𝐋𝐀𝐈𝐊𝐔𝐌+❣️+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄+👋🏻;😍+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐏𝐀𝐍𝐇𝐖𝐀𝐑+𝐌𝐃+𝐁𝐎𝐓+💙;🔥+𝐓𝐇𝐄+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄!;🎉+𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!;💡+𝐅𝐀𝐒𝐓+%7𝐂+𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄+%7𝐂+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!;✨+𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐃!)
+![𝐀𝐖𝐀𝐍-𝐌𝐃](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+𝐀𝐒𝐒𝐋𝐀𝐌-𝐔-𝐀𝐋𝐀𝐈𝐊𝐔𝐌+❣️+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄+👋🏻;😍+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐀𝐖𝐀𝐍+𝐌𝐃+𝐁𝐎𝐓+💙;🔥+𝐓𝐇𝐄+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄!;🎉+𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!;💡+𝐅𝐀𝐒𝐓+%7𝐂+𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄+%7𝐂+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!;✨+𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐃!)
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
     <a href="" style="text-decoration: none;">
         <img 
-            alt="PANHWAR" 
+            alt="AWAN" 
             width="700" 
             height="400" 
             src="https://i.imghippo.com/files/VlzR4698Zv.jpg" 
@@ -13,13 +13,13 @@
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
         >
     </a>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝘼𝙉𝙎𝘼𝙍 𝙋𝘼𝙉𝙃𝙒𝘼𝙍 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝙈𝙐𝘿𝘼𝙎𝙎𝘼𝙍 𝘼𝙒𝘼𝙉 𝙕𝘼𝘿𝘼 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
 
 
 
 <div align="center">
     <a href="https://github.com/Panhwar110/Panhwar-MD">
-        <img title="Author" src="https://img.shields.io/badge/𝑷𝑨𝑵𝑯𝑾𝑨𝑹%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
+        <img title="Author" src="https://img.shields.io/badge/𝑨𝑾𝑨𝑵%20𝑴𝑫%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
     </a>
     <br>
     <a href="https://github.com/Panhwar110?tab=followers">
