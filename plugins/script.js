@@ -15,7 +15,7 @@ let repo =`
 > *BOT OWNER:*
 *|* *AWAN ZADA*
 
-> *PANHWAR MD REPO:*
+> *AWAM MD REPO:*
 *|* *https://github.com/itzawanzada/MUDASSAR-MD*
 
 > *SUPPORT CHANNEL:*
@@ -36,10 +36,10 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'PANHWAR MD',
+title: 'AWAN MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
+sourceUrl: "https://github.com/itzawanzada/MUDASSAR-MD" ,
 thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
