@@ -7,7 +7,7 @@
             alt="AWAN" 
             width="700" 
             height="400" 
-            src="https://qu.ax/OAbEA.jpg" 
+            src="https://qu.ax/HcHdG.mp4" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
@@ -100,7 +100,7 @@
 </div>
 
 
-### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃-𝐁𝐎𝐓`]
+### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐀𝐖𝐀𝐍-𝐌𝐃-𝐁𝐎𝐓`]
 - 🪄 Arabic = ar 
 - 🪄 Urdu = ur
 - 🪄 English Global = en
