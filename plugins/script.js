@@ -40,7 +40,7 @@ title: 'AWAN MD',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/itzawanzada/MUDASSAR-MD" ,
-thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
+thumbnailUrl: "https://qu.ax/OAbEA.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
