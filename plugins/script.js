@@ -13,16 +13,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ANSAR PANHWAR*
+*|* *AWAN ZADA*
 
 > *PANHWAR MD REPO:*
-*|* *https://github.com/Panhwar110/Panhwar-MD*
+*|* *https://github.com/itzawanzada/MUDASSAR-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*|* *https://whatsapp.com/channel/0029VaxurQT1t90ad7JBJN00*
 *╰──────────────●●►*
 
-> *🇵🇰PANHWAR-MD*
+> *AWAN-MD*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
