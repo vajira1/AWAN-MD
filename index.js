@@ -120,7 +120,7 @@ let up = `
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴡᴀɴ ᴢᴀᴅᴀ
 *•────────────•⟢*
 `;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://qu.ax/OAbEA.jpg` }, caption: up })
 
 }
 })
