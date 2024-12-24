@@ -18,8 +18,8 @@
 
 ---------
 
-### <br>  ❖ SILENT-SOBX-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SILENTLOVER 432`** 🔰
+### <br>  ❖ AWAN-MD ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY AWAN`** 🔰
 
 ----------
 
@@ -28,7 +28,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`AWAN++MD+WHATSAPP+BOT`" alt="">
 
 ------------
 
