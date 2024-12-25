@@ -96,7 +96,18 @@
       "description": "write hear your name.",
       "required": true,
       "value": "ᴀᴡᴀɴ-ᴍᴅ"
-    }
+    },
+        "HEART_REACT": {
+      "description": "Make it to true if you won't only heart react.",
+      "required": true,
+      "value": "true"
+  },
+        "STATUS RAPLY": {
+      "description": "make it to true if you won't status raply.",
+      "required": true,
+      "value": "ყσυɾ ʂƚαƚυʂ ʂҽҽɳ ʝυʂƚ ɳσɯ αɯαɳ ɱԃ"
+   },
+      
 
 },
 
