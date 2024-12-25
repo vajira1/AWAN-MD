@@ -16,7 +16,7 @@ let repo =`
 *|* *AWAN ZADA*
 
 > *AWAM MD REPO:*
-*|* *https://github.com/itzawanzada/MUDASSAR-MD*
+*|* *https://github.com/itzawanzada/AWAN-MD*
 
 > *SUPPORT CHANNEL:*
 *|* *https://whatsapp.com/channel/0029VaxurQT1t90ad7JBJN00*
