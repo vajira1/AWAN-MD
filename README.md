@@ -19,7 +19,7 @@
 ---------
 
 ### <br>  ❖ AWAN-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY AWAN`** 🔰
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY AWANZADA👑`** 🔰
 
 ----------
 
@@ -146,7 +146,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 ### <br>    ❖ SESSION_ID ❖
 
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+923275028087 THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 ----------
 
@@ -178,7 +178,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/itzawanzada/MUDASSAR-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/itzawanzada/AWAN-MD)
 
 ----------
 
