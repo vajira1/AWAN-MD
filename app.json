@@ -102,11 +102,11 @@
       "required": true,
       "value": "true"
   },
-        "STATUS RAPLY": {
+        "STATUS_RAPLY": {
       "description": "make it to true if you won't status raply.",
       "required": true,
       "value": "ყσυɾ ʂƚαƚυʂ ʂҽҽɳ ʝυʂƚ ɳσɯ αɯαɳ ɱԃ"
-   },
+   }
       
 
 },
