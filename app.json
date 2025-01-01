@@ -5,7 +5,7 @@
   "keywords": ["bot"],
   "success_url": "/",
 
-    "stack": "container",
+"stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://qu.ax/OAbEA.jpg"
+      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "ʜɪ ɪ'ᴍ ᴏɴʟɪɴᴇ ᴍʏ ɴᴀᴍᴇ ɪs ᴀᴡᴀɴ ʙʜᴀɪ"
+      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
     },
     
     "PREFIX": {
@@ -58,7 +58,7 @@
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "ANTI_LINK": {
@@ -70,13 +70,13 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -95,19 +95,56 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "ᴀᴡᴀɴ-ᴍᴅ"
+      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+    }, 
+
+    "HEART_REACT": {
+      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "READ_MESSAGE": {
+      "description": "Make it true if you want bot read your all sms just now.",
+      "required": true,
+      "value": "false"
+    }, 
+    "CAPTION": {
+      "description": "enter your caption if you want to show on menu.",
+      "required": true,
+      "value": "POWERED BY SILENTLOVER432"
+    }, 
+    "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": true,
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
     },
-        "HEART_REACT": {
-      "description": "Make it to true if you won't only heart react.",
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
       "required": true,
       "value": "true"
-  },
-        "STATUS_RAPLY": {
-      "description": "make it to true if you won't status raply.",
+    }, 
+
+    "ALWAYS_ONLINE": {
+      "description": "make it true if you want to show always online.",
       "required": true,
-      "value": "ყσυɾ ʂƚαƚυʂ ʂҽҽɳ ʝυʂƚ ɳσɯ αɯαɳ ɱԃ"
-   }
-      
+      "value": "true"
+    }, 
+    "FAKE_TYPING": {
+      "description": "make it true if you want to show fake typing.",
+      "required": true,
+      "value": "true"
+    }, 
+    "CURRENT_STATUS": {
+      "description": "make it true if you to show your reail last seen.",
+      "required": true,
+      "value": "false"
+    }, 
+    "READ_CMD": {
+      "description": "make it true if you want bot auto read commands",
+      "required": true,
+      "value": "true"
+    }
 
 },
 
