@@ -121,7 +121,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 
 ----------
 
-<a href="https://youtube.com/@silentlover432?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://www.youtube.com/@AWANMD-x4g"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
 
@@ -154,21 +154,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 <a href="https://webpair-mega-1-jq80.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
-----------
 
-----------
-
-<p align="center">
-<a href="https://express-pairing-code2-1-hgi2.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
-----------
-
-----------
-
-<p align="center">
-<a href="https://web-pair-1dha.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-3:-black?style=for-the-badge&logo=render"></a>
-<p/>
 
 ----------
  
