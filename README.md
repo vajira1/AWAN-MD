@@ -16,12 +16,12 @@
     <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝙈𝙐𝘿𝘼𝙎𝙎𝘼𝙍 𝘼𝙒𝘼𝙉 𝙕𝘼𝘿𝘼 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
 
 
----------
+--------------
 
 ### <br>  ❖ AWAN-MD ❖
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY AWANZADA👑`** 🔰
 
-----------
+---------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
