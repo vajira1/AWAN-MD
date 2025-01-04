@@ -269,7 +269,7 @@ jobs:
 
 -------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
 
 ------------
 
@@ -281,8 +281,8 @@ jobs:
 
 -------------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
+<a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
 
 -----------
 
