@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "𝘈𝘞𝘈𝘕-𝘔𝘋"
     }, 
 
     "HEART_REACT": {
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY AWANZADA"
+      "value": "POWERED BY 𝘈𝘞𝘈𝘕𝘡𝘈𝘋𝘈"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-αωαи м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү αωαи м∂"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
