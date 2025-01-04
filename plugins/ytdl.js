@@ -1,5 +1,6 @@
-*// YT PLUGIN FOR SONG,VIDEO,PLUGIN CREATED BY SILENT LOVER ⁴³²//*
-
+/* YT PLUGIN FOR SONG,VIDEO,PLUGIN CREATED BY SILENT LOVER ⁴³²*/
+/*©️ copy coder alert ⚠️
+/*it's not your priority
 
 
 
