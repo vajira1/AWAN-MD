@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
+      "value": "https://i.ibb.co/zPp0q0f/Manul-Ofc-X.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
+      "value": "нує му fιяєи∂ ι αм αωαи zα∂α αм αℓινє иσω.!!"
     },
     
     "PREFIX": {
