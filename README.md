@@ -104,12 +104,12 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923096287432?text=*ʜɪɪ+sɪʟᴇɴᴛʟᴏᴠᴇʀ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923275028087?text=*ʜɪɪ+αωαи--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+αωαи-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`✠ IF YOU WANT MORE ABOUT SILENT-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+`✠ IF YOU WANT MORE ABOUT AWAN-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
 
 ---------
 
@@ -117,7 +117,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 
 -----------
 
-`✠ IF YOU WANT MORE ABOUT SILENT-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+`✠ IF YOU WANT MORE ABOUT AWAN-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
 
 ----------
 
@@ -131,7 +131,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 
 <br>
 
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+`✠ HOW TO DEPLOY AWAN-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
 -------------
 
@@ -160,7 +160,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY AWAN-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 ------------
  
@@ -170,17 +170,17 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SILENT-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
+`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY AWAN-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/itzawanzada/AWAN-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY AWAN-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
 
 ---------
 
@@ -190,7 +190,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 
 ### <br>  ❖ DEPLOY_RAILWAY ❖
 
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY AWAN-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
 
 --------
 
@@ -258,7 +258,7 @@ jobs:
 
 -----------
 
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+`✠ HOW TO DEPLOY AWAN-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
 -------------
 
@@ -286,11 +286,11 @@ jobs:
 
 -----------
 
-***⚠️THANKS FOR USING SILENT-SOBX-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SILENT-SOBX-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY SILENTLOVER432 KING OF WHATSAPP♥️☣️🥂***
+***⚠️THANKS FOR USING AWAN-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE AWAN-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY AWAN ZADA 👑 KING OF WHATSAPP♥️☣️🥂***
 
 ------------
 
-![license](https://img.shields.io/github/license/SILENTLOVER40/SILENT-SOBX-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/itzawanzada/AWAN-MD?color=green&label=License&style=plastic)
 
 ----------
 
