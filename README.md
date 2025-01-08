@@ -267,6 +267,9 @@ jobs:
     </a>
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=AWAN-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+MUDASSAR+AWANZADA;KEEP+USING+AWAN-MD" alt="Typing SVG" /></a>
+  </p>
+
 -------------
 
 <a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
@@ -282,7 +285,7 @@ jobs:
 -------------------
 
 <a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
-<a><img src='https://i.ibb.co/D5NSrBg/Manul-Ofc-X.jpg'/></a>
+
 
 -----------
 
