@@ -151,7 +151,7 @@ src="https://cardivo.vercel.app/api?name=AWAN%20%MD%20V2&description=🥂THE%20W
 ----------
 
 <p align="center">
-<a href=https://awan-web-pair-c3fdbc8e4342.herokuapp.com/><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href=https://awan-md-webpair-4234b125adbb.herokuapp.com/><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 
