@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name AWAN-MD",
-    "stop": "pm2 stop AWAN-MD",
+    "stop": "pm2 stop SOBIA-MD",
     "restart": "pm2 restart AWAN-MD"
   },
   "dependencies": {
@@ -28,7 +28,7 @@
         "@sl-code-lords/wabetainfo": "1.2.0",
         "@tobyg74/tiktok-api-dl": "1.0.13",
         "@vitalets/google-translate-api": "9.2.0",
-        "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
+        "@whiskeysockets/baileys": "6.7.12",
         "api-dylux": "latest",
         "aptoide-scraper": "1.0.1",
         "awesome-phonenumber": "7.2.0",
@@ -89,8 +89,11 @@
         "qrcode-terminal": "^0.12.0",
         "qs": "^6.10.1",
         "remove-bg-node": "1.0.3",
+        "ruhend-scraper":"8.0.7", 
         "Sachibot-Spotifydl": "git+https://github.com/AlenVelocity/spotifydl-core.git",
         "scr-emoji": "0.0.3",
+        "sequelize": "^6.37.5",
+        "sqlite3": "^5.1.7",
         "seedr": "^1.1.2",
         "simple-git": "3.22.0",
         "sinhala-cricket-newsjs": "1.0.0",
@@ -120,6 +123,7 @@
         "yt-search": "2.12.1", 
         "@mrnima/tiktok-downloader":"1.0.0",
         "@mrnima/facebook-downloader":"1.0.0",
-        "mrnima-moviedl":"1.0.0"
+        "mrnima-moviedl":"1.0.0", 
+        "@dark-yasiya/yt-dl.js":"latest"
     }
-}
+  }
